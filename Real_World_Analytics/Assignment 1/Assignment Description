@@ -1,0 +1,13 @@
+The Dataset for this assignment is a modified version of a subset of data used in Candanedo et al, 2017.
+The experimental data have been used to create models of energy use of appliances in a low-energy house.
+The modified Dataset provides the energy use of Appliances (denoted as Y) using 671 samples.
+The Dataset comprises 5 features (variables), which are denoted as X1, X2, X3, X4 and X5.
+The details about these variables are given below:
+
+X1: Temperature in kitchen area, in Celsius
+X2: Humidity in kitchen area, given as a percentage
+X3: Temperature outside (from weather station), in Celsius
+X4: Humidity outside (from weather station), given as a percentage
+X5: Visibility (from weather station), in km
+Y: Appliances, energy use, in Wh
+For more information about the variables see Candanedo et al, 2017. 
