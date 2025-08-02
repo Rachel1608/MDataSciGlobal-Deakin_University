@@ -18,41 +18,42 @@ The Following Modules of this Course:
     * Error Measures
     * Linear Programming
     * Game Theory.
-* Data Wrangling
-      * Python
-      * Numpy
-      * Pandas
-      * Applied Statistics
-      * Matrices
-      * Power BI
-* Engineering AI Solutions
-      * Azure
-        * Azure ML
-        * Azure CV
-        * Azure LS
-      * Python
-      * ML Pipeline
-      * ML Workflow
-      * Kubernetes
-      * Model Deployment
-      * Chatbot
-* Mathematics for AI
-      * Calculus
-      * Linear Algebra, Vector, Matrices.
-      * Probability
-      * Multivariate Calculus
-      * Graph Theory.
-* Machine Learning
-     * Supervised Learning
-     * Unsupervised Learning
-     * Clustering & Dimensionality Reduction
-     * Non Linear Model (Neural Networks)
-* Modern Data Science
-     * Python & Big Data
-     * ETL
-     * Web Scraping
-     * Web Crawling using BeautifulSoup.
-     * Data Manipulation
-     * Spark and Hadoop
-     * Time Series Forecasting
-     * Anomaly Detection - Apriori Alg
+* Data Wrangling:
+    * Python
+    * Numpy
+    * Pandas
+    * Applied Statistics
+    * Matrices
+    * Power BI
+* Engineering AI Solutions:
+    * Azure:
+      * Azure ML
+      * Azure CV
+      * Azure LS
+    * Python
+    * ML Pipeline
+    * ML Workflow
+    * Kubernetes
+    * Model Deployment
+    * Chatbot
+* Mathematics for AI:
+    * Calculus
+    * Linear Algebra, Vector, Matrices.
+    * Probability
+    * Multivariate Calculus
+    * Graph Theory.
+* Machine Learning:
+    * Supervised Learning
+    * Unsupervised Learning
+    * Clustering & Dimensionality Reduction
+    * Non Linear Model (Neural Networks)
+* Modern Data Science:
+    * Python & Big Data
+    * ETL
+    * Web Scraping
+    * Web Crawling using BeautifulSoup.
+    * Data Manipulation
+    * Spark and Hadoop
+    * Time Series Forecasting
+    * Anomaly Detection - Apriori Alg
+    * Big Data Privacy.
